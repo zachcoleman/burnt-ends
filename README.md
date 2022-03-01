@@ -1,3 +1,5 @@
 # Burnt Ends
 
-A collection of PyTorch experiments and tidbits. 
+A collection of PyTorch experiments and tidbits.
+
+### Setup
